@@ -1,6 +1,6 @@
 # Task 3 – Real-World Dataset Analysis: 145 Years of Global Temperature
 
-**YuvaIntern · Data Analyst Internship** · **Intern:** [Your Name]
+**YuvaIntern · Data Analyst Internship** · **Intern:** Rashad kazi
 
 ## Dataset
 **NASA GISS Surface Temperature Analysis (GISTEMP v4)** – Land-Ocean Temperature Index, Global Means (`data/GLB.Ts+dSST.csv`).
